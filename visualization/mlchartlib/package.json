@@ -1,5 +1,5 @@
 {
-  "name": "mlchartlib",
+  "name": "mlchartlib", 
   "version": "0.1.38-beta2",
   "license": "MIT",
   "description": "Add accesibility, theming, and generating methods for plotly charts",
